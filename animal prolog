@@ -1,0 +1,4 @@
+dog(rosy).
+cat(alex).
+animal(A) :- dog(A).
+animal(A) :- cat(A).
